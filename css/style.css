@@ -116,7 +116,7 @@ figure {
     width: 100%; }
     #colorlib-aside #colorlib-logo a {
       display: block;
-      text-align: center;
+      text-align: left;
       color: #000;
       padding-right: .3em; }
   #colorlib-aside #colorlib-main-menu {
@@ -125,7 +125,7 @@ figure {
     #colorlib-aside #colorlib-main-menu .collapse {
       display: block !important; }
     #colorlib-aside #colorlib-main-menu ul {
-      text-align: center;
+      text-align: left;
       margin: 0;
       padding: 0; }
       @media screen and (max-width: 768px) {
@@ -188,7 +188,7 @@ figure {
             transform: scaleX(1); }
   #colorlib-aside .colorlib-footer {
     font-size: 15px;
-    text-align: center;
+    text-align: left;
     font-weight: 400;
     color: rgba(0, 0, 0, 0.5);
     padding: 0 20px;
@@ -289,7 +289,7 @@ figure {
         position: relative; }
         @media screen and (max-width: 768px) {
           #colorlib-hero .flexslider .slider-text > .slider-text-inner {
-            text-align: center; } }
+            text-align: left; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
@@ -550,7 +550,7 @@ body.offcanvas {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
-  text-align: center;
+  text-align: left;
   -moz-box-shadow: 0 0 0 5px #f2f3f7;
   -webkit-box-shadow: 0 0 0 5px #f2f3f7;
   box-shadow: 0 0 0 5px #f2f3f7;
@@ -821,7 +821,7 @@ body.offcanvas {
     width: 100px;
     height: 100px;
     display: table;
-    text-align: center;
+    text-align: left;
     background: #f2f3f7;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
@@ -1082,7 +1082,7 @@ body.offcanvas {
 .colorlib-social {
   padding: 0;
   margin: 0;
-  text-align: center; }
+  text-align: left; }
   .colorlib-social li {
     padding: 0;
     margin: 0;
